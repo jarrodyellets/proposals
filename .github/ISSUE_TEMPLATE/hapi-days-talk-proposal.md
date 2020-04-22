@@ -1,7 +1,7 @@
 ---
 name: hapi Days Talk Proposal
 about: Submit your hapi days talk proposal here
-title: ''
+title: hapi Days Talk Proposal
 labels: Talk Proposal
 assignees: ''
 
