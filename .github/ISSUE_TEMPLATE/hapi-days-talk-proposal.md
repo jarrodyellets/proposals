@@ -7,10 +7,20 @@ assignees: ''
 
 ---
 
-**Title of you talk:**
-A clear and concise description of what the problem is. Ex. I'm always frustrated when [...]
+<!--
+  ⚠️ ⚠️ ⚠️ ⚠️ ⚠️ ⚠️
+  You must complete this entire issue template to receive support. You MUST NOT remove, change, or replace the template with your own format. A missing or incomplete report will cause your issue to be closed without comment. Please respect the time and experience that went into this template. It is here for a reason. Thank you!
+  ⚠️ ⚠️ ⚠️ ⚠️ ⚠️ ⚠️
+-->
 
-**Link to video of your talk: Note, videos must be hapi-related and be 10 minutes in length.**
-A clear and concise description of what you want to happen.
+
+**Title of you talk:**
+
+
+**Link to video of your talk:.**
+
+
+**Abstract:**
+
 
 **Drag and drop PDF slides here: (OPTIONAL)**
