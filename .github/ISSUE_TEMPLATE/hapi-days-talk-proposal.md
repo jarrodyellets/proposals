@@ -9,18 +9,18 @@ assignees: ''
 
 <!--
   ⚠️ ⚠️ ⚠️ ⚠️ ⚠️ ⚠️
-  You must complete this entire issue template to receive support. You MUST NOT remove, change, or replace the template with your own format. A missing or incomplete report will cause your issue to be closed without comment. Please respect the time and experience that went into this template. It is here for a reason. Thank you!
+hapi days is a virtual conference discussing all things hapi.  To be considered as a speaker for hapi days, you need to submit a link for your complete video that is hapi-related and 10 minutes in length. If you wish, you may also submit optional PDF slides supporting your talk. Thank you!
   ⚠️ ⚠️ ⚠️ ⚠️ ⚠️ ⚠️
 -->
 
 
-**Title of you talk:**
+**Title of your talk:**
 
 
-**Link to video of your talk:.**
+**Short description of your talk:**
 
 
-**Abstract:**
+**Link to video of your talk (Must be hapi-related and 10 minutes in length):**
 
 
 **Drag and drop PDF slides here: (OPTIONAL)**
